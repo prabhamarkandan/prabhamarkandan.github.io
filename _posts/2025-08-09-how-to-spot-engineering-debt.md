@@ -5,33 +5,6 @@ date: 2025-08-09
 categories: engineering ai technical-debt
 ---
 
-<style>
-body, .post-content, .post-content * {
-  background: #181a1b !important;
-  color: #f5f6fa !important;
-}
-a { color: #7fdfff; }
-h1, h2, h3, h4, h5, h6 { color: #f7fafc; }
-pre, code {
-  background: #232629 !important;
-  color: #f8f8f2 !important;
-  border-radius: 6px;
-  padding: 0.4em 0.7em;
-}
-.callout-dark {
-  border-left: 6px solid #7fdfff;
-  background: #232629;
-  color: #fff;
-  padding: 1.25em 1.5em;
-  margin: 1.5em 0;
-  font-size: 1.07em;
-  border-radius: 7px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-}
-.callout-dark strong { color: #7fdfff; }
-.callout-dark em { color: #b2f5ea; }
-</style>
-
 You’re racing to integrate AI-powered features, but your engineering engine is quietly rusting beneath the hood. What if years of hidden debt are sabotaging every sprint?
 
 ## Introduction
