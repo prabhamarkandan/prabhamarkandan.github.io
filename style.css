@@ -204,7 +204,9 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
-
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+	
   @include mobile {
     margin: 3px 0;
   }
