@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: "A Fresh Start"
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hi, I'm Prabha Markandan. After a long break, I feel compelled to share my thoughts again! This time, on all things engineering, my AI learnings, coding experiments, and anything interesting around identity, leadership, and beyond.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+This space is where I’ll jot down what I’m learning, tinkering with, and reflecting on. 
+Whether you’re a fellow engineer, leader, coder, or just curious, I hope you find something here that sparks your interest or helps you along your journey.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Stay tuned for stories, experiments, and insights!
