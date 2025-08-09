@@ -163,7 +163,7 @@ img {
   }
 }
 
-.site-avatar {
+/* .site-avatar {
   float: left;
   width: 70px;
   height: 70px;
@@ -178,12 +178,7 @@ img {
   img {
     border-radius: 5px;
   }
-}
-
-/* Hide avatar container when empty (no avatar configured) */
-.site-avatar:empty {
-  display: none;
-}
+} */
 
 .site-info {
   float: left;
