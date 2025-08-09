@@ -180,6 +180,11 @@ img {
   }
 }
 
+/* Hide avatar container when empty (no avatar configured) */
+.site-avatar:empty {
+  display: none;
+}
+
 .site-info {
   float: left;
 
