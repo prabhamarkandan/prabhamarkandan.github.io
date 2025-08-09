@@ -184,6 +184,7 @@ img {
   float: left;
   border-bottom: 1px solid #ddd;
   padding-bottom: 15px;
+  margin-bottom: 20px;
   width: 100%;
 
   @include mobile {
@@ -277,6 +278,8 @@ nav {
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
+  padding-top: 15px;
+  width: 100%;
   /* border-bottom: 1px solid #ddd; */
   background-color: $lightGray;
 }
