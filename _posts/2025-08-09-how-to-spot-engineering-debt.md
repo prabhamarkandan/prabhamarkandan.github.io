@@ -5,8 +5,6 @@ date: 2025-08-10
 categories: engineering ai leadership
 ---
 
-# The Hidden Threat: How to Spot the Engineering Debt Slowing Your AI Feature Rollouts
-
 Across engineering, product, and delivery teams, the pressure to move faster has never been greater. With AI-powered coding assistants and AI technologies accelerating feature development, the gap between rapid delivery and sustainable, reliable systems is wider - and riskier - than ever before.
 
 But what if the biggest thing slowing you down isn’t the AI technology itself, but the hidden engineering debt quietly sabotaging your efforts?
