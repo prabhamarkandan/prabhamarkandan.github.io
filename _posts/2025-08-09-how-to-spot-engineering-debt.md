@@ -104,6 +104,7 @@ Spotify’s ‘squad’ model was born out of a need to break down organizationa
 - [Spotify engineering culture (part 1) | Spotify Engineering](https://engineering.atspotify.com/2014/3/spotify-engineering-culture-part-1)
 
 ---
+**![Debt](images/debt.png)**
 
 ## Key Alarms That Should Make You Hit the Brakes
 
