@@ -75,7 +75,7 @@ sass:
 #Themes jekyll-theme-cayman  jekyll-theme-hacker jekyll-theme-minimal jekyll-theme-primer jekyll-theme-leap-day
 # jekyll-theme-merlot jekyll-theme-midnight jekyll-theme-slate jekyll-theme-architect jekyll-theme-dinky jekyll-theme-modernist
 # jekyll-theme-pacific jekyll-theme-tactile jekyll-theme-time-machine
-theme: jekyll-theme-tactile
+theme: jekyll-theme-modernist
 
 # Use the following plug-ins
 gems:
