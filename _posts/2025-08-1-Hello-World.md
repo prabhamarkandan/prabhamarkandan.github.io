@@ -3,11 +3,12 @@ layout: post
 title: "A Fresh Start"
 ---
 
-Hi, I'm Prabha Markandan. 
-After a long break, I feel compelled to share my thoughts again! 
-This time, on all things engineering, my AI learnings, coding experiments, and anything interesting around identity, leadership, and beyond.
+Hi, I’m Prabha Markandan. 
 
-This space is where I’ll jot down what I’m learning, tinkering with, and reflecting on. 
-Whether you’re a fellow engineer, leader, coder, or just curious, I hope you find something here that sparks your interest or helps you along your journey.
+After a long break, I’m excited to start sharing again - this time on engineering, AI, coding experiments, and reflections on engineering leadership, growth, and identity.
 
-Stay tuned for stories, experiments, and insights!
+This will be my space to capture what I’m learning, building, and thinking about. 
+
+Whether you’re building, leading, learning, or just curious, I hope you’ll find ideas here that spark inspiration or offer something useful for your own journey.
+
+Stay tuned for stories, experiments, and insights ahead.
