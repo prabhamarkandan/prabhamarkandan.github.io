@@ -123,8 +123,19 @@ When you raise concerns, frame them in terms leadership understands:
 - **Delivery risks**
 - **Customer impact**
 - **Business outcomes**
+- **ROI (Return on Investment)**
 
 Be clear, evidence-driven, and constructive - this gives your voice more weight and opens doors for change.
+
+**Make ROI part of your case:**  
+Leadership is often persuaded by the tangible return on investment for tackling engineering debt. Try to quantify how fixing the debt will:
+
+- Reduce time spent firefighting or fixing bugs (freeing up resources for new features)
+- Lower operational costs (for example, by improving system efficiency or reducing cloud spend)
+- Improve customer satisfaction (leading to higher retention or new business)
+- Enable faster, safer releases (translating to greater business agility and competitiveness)
+
+The more you can show how tackling debt pays off—whether in dollars saved, time gained, or customer value delivered—the more likely leadership will listen and act.
 
 ---
 
@@ -164,7 +175,6 @@ If your engineering feels like this, it’s a red flag that debt is slowing you 
 If you spot two or more, it’s time to dig deeper.
 
 ---
-
 ## Spot Your Biggest Problem: A Practical Guide
 
 Start by gathering evidence of where the pain points are. Look for your loudest alarms - these symptoms reveal the kind of debt slowing you down:
@@ -175,11 +185,11 @@ Start by gathering evidence of where the pain points are. Look for your loudest 
 | Manual workflows, slow pipelines | Process Debt      |
 | Miscommunication, unclear ownership | Organizational Debt |
 
-Then prioritize what to fix based on impact and feasibility:
+Then prioritize what to fix based on impact, feasibility, and potential ROI:
 
 - What hurts customers or business most?
 - What’s fixable with your current resources?
-- Where can you score a quick win to boost morale?
+- Where can you score a quick win to boost morale or show a strong return?
 
 Start small, track progress, and build momentum - each win chips away at your debt and frees your team.
 
