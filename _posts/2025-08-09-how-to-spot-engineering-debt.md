@@ -5,6 +5,27 @@ date: 2025-08-10
 categories: engineering ai leadership
 ---
 
+The conversation around engineering debt usually centers on code quality and refactoring. But in practice, debt takes many forms - messy code, outdated tools, clunky workflows, and even deeper team and ownership issues.
+
+Imagine your engineering organization as a grand old building. You might spot a few cracks in the walls - fragile code, legacy systems, manual release processes - and teams might debate how urgent the repairs are, scramble for funding, or argue over whose responsibility it is to fix them. But sometimes, the real problem is deeper and more structural: the very foundation weakened, not just by technical shortcuts and process pain, but by years of shifting roles, unclear ownership, and blurred accountability.
+
+This is the hidden crisis facing teams moving from project to product. If you don’t spot and fix the full spectrum of engineering debt - technical, process, and organizational - even the best AI-powered features will be built on shaky ground. In the age of AI, these weaknesses are exposed faster and more brutally than ever before.
+
+In this two-part series, you’ll get practical strategies and real-world examples - from Twitter to Netflix and Etsy - to help you:
+
+- Spot the hidden cracks (technical, process, and organizational debt) slowing your delivery
+- Diagnose the real root causes, not just the symptoms
+- Build a resilient, accountable engineering foundation for sustainable, fast-moving innovation
+
+**Part 1** dives deep into how to spot the warning signs and shine a light on the cracks.  
+**Part 2** will show you how to fix them for good.
+
+If you want your AI-powered features to deliver real value - not just demos or prototypes - this series is your roadmap.
+
+---
+
+**"The Hidden Threat: How to Spot the Engineering Debt Slowing Your AI Feature Rollouts"**
+
 Across engineering, product, and delivery teams, the pressure to move faster has never been greater. With AI-powered coding assistants and AI technologies accelerating feature development, the gap between rapid delivery and sustainable, reliable systems is wider - and riskier - than ever before.
 
 But what if the biggest thing slowing you down isn’t the AI technology itself, but the hidden engineering debt quietly sabotaging your efforts?
