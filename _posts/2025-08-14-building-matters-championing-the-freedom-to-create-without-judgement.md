@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Building Matters: Championing the Freedom to Create"
-date: 2025-08-13
+title: "Building Matters: Championing the Freedom to Create, Without Judgement"
+date: 2025-08-14
 categories: [reflection, engineering]
 ---
 
@@ -22,7 +22,7 @@ Sam Altman says recent graduates are poised to benefit from AI-driven transforma
 
 **It is about time.** This is not a surprise - switching back to an IC role, building while leading, or rediscovering the joy of creation, whatever the job title may be, however one chooses to build, should be **normal, expected, and celebrated.**
 
-It opens a plethora of opportunities and positions one to leverage the democratization of the economy that AI enables. 
+It opens up new opportunities and lets us leverage the democratization that AI enables.
 Why should managers not enjoy the same potential as solo founders, billion-dollar ventures, or new ways to create value? 
 It is a win-win: returning to building or leading and building together amplifies both impact and optionality.
 
