@@ -18,20 +18,19 @@ Then mass production arrived. Many artisans were replaced, while managers orches
 
 Now, AI is rewriting the rules again. By automating routine work, it is giving us the chance to return to what matters most: craft, mastery, and building things that reflect our skill and creativity. Leaders can combine hands-on creation with strategic oversight, the new “maker-manager” model.
 
+Jensen Huang:  
+> “AI is the greatest technology force of our lifetime. It’s the great equalizer. Everybody can be a programmer now—you just have to say something to the computer.”  
+> [Gulf Insider: NVIDIA CEO: AI ‘Greatest Equalizer’ Of Time](https://www.gulf-insider.com/nvidia-ceo-ai-greatest-equalizer-of-time/)  
+> [Forbes: Artificial Intelligence: The Great Equalizer](https://www.forbes.com/councils/forbestechcouncil/2023/08/16/artificial-intelligence-the-great-equalizer/)
+
 Sam Altman:  
-> “The greatest beneficiaries of this technological revolution will be the people who are just starting out.”  
-> [Stanford University Commencement Address, 2024 (Transcript)](https://news.stanford.edu/2024/06/16/altman-commencement-address/)  
-> [Watch on YouTube](https://www.youtube.com/watch?v=HAnw168huqA)
+> “The world’s going to need more builders and fewer critics.”  
+> [Lex Fridman Podcast #367, 1:05:38](https://www.youtube.com/watch?v=L-Guz73e6fw&t=3938s)
 
 Satya Nadella:  
 > “Don’t be a know-it-all; be a learn-it-all.”  
 > [Microsoft Ignite 2017 Keynote](https://news.microsoft.com/speeches/satya-nadella-microsoft-ignite-2017/)  
 > [Quote in "Hit Refresh"](https://books.google.com/books?id=Qx4rDwAAQBAJ&pg=PA206#v=onepage&q&f=false)
-
-Jensen Huang:  
-> “AI is the greatest technology force of our lifetime. It’s the great equalizer. Everybody can be a programmer now—you just have to say something to the computer.”  
-> [Gulf Insider: NVIDIA CEO: AI ‘Greatest Equalizer’ Of Time](https://www.gulf-insider.com/nvidia-ceo-ai-greatest-equalizer-of-time/)  
-> [Forbes: Artificial Intelligence: The Great Equalizer](https://www.forbes.com/councils/forbestechcouncil/2023/08/16/artificial-intelligence-the-great-equalizer/)
 
 **It is about time.** This is not a surprise - switching back to an IC role, building while leading, or rediscovering the joy of creation, whatever the job title may be, however one chooses to build, should be **normal, expected, and celebrated.**
 
