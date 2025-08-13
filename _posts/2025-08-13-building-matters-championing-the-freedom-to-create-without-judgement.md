@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Matters: Championing the Freedom to Create, Without Judgement"
-date: 2025-08-14
+date: 2025-08-13
 categories: [reflection, engineering]
 ---
 
