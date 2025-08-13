@@ -19,7 +19,7 @@ Then mass production arrived. Many artisans were replaced, while managers orches
 Now, AI is rewriting the rules again. By automating routine work, it is giving us the chance to return to what matters most: craft, mastery, and building things that reflect our skill and creativity. Leaders can combine hands-on creation with strategic oversight, the new “maker-manager” model.
 
 Jensen Huang:  
-> “AI is the greatest technology force of our lifetime. It’s the great equalizer. Everybody can be a programmer now—you just have to say something to the computer.”
+> “AI is the greatest technology force of our lifetime. It’s the great equalizer. Everybody can be a programmer now - you just have to say something to the computer.”
 > 
 [Gulf Insider: NVIDIA CEO: AI ‘Greatest Equalizer’ Of Time](https://www.gulf-insider.com/nvidia-ceo-ai-greatest-equalizer-of-time/)  
 [Forbes: Artificial Intelligence: The Great Equalizer](https://www.forbes.com/councils/forbestechcouncil/2023/08/16/artificial-intelligence-the-great-equalizer/)
