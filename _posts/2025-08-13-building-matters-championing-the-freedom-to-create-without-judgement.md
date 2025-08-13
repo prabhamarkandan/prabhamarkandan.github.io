@@ -36,7 +36,7 @@ Satya Nadella:
 
 This analogy highlights that the same holds true for leadership and creation: you can’t sit on the sidelines - you have to actively build, experiment, and participate. 
 
-**It is about time.** This should not be a surprise - switching back to an IC role, building while leading, or rediscovering the joy of creation, whatever the job title may be, however one chooses to build, should be **normal, expected, and celebrated.**
+**It is about time.** This should not be a surprise - switching back to an IC role, building while leading, or **rediscovering the joy of creation, whatever the job title may be**, however one chooses to build, should be **normal, expected, and celebrated.**
 
 It opens up new opportunities and lets us leverage the democratization that AI enables.
 Why should managers not enjoy the same potential as solo founders, billion-dollar ventures, or new ways to create value? 
