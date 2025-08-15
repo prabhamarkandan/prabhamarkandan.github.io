@@ -5,6 +5,8 @@ date: 2025-08-10
 categories: engineering ai leadership
 ---
 
+
+
 The conversation around engineering debt usually centers on code quality and refactoring. But in practice, debt takes many forms - messy code, outdated tools, clunky workflows, and even deeper team and ownership issues.
 
 Imagine your engineering organization as a grand old building. You might spot a few cracks in the walls - fragile code, legacy systems, manual release processes - and teams might debate how urgent the repairs are, scramble for funding, or argue over whose responsibility it is to fix them. But sometimes, the real problem is deeper and more structural: the very foundation weakened, not just by technical shortcuts and process pain, but by years of shifting roles, unclear ownership, and blurred accountability.
@@ -24,7 +26,7 @@ If you want your AI-powered features to deliver real value - not just demos or p
 
 ---
 
-**"The Hidden Threat: How to Spot the Engineering Debt Slowing Your AI Feature Rollouts"**
+# H1 The Hidden Threat: How to Spot the Engineering Debt Slowing Your AI Feature Rollouts
 
 Across engineering, product, and delivery teams, the pressure to move faster has never been greater. With AI-powered coding assistants and AI technologies accelerating feature development, the gap between rapid delivery and sustainable, reliable systems is wider - and riskier - than ever before.
 
