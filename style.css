@@ -43,6 +43,21 @@ a:visited {
   color: #444;
 }
 
+/* Links within article content should be more visible */
+.post a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.post a:hover {
+  color: #0366d6;
+  text-decoration: underline;
+}
+
+.post a:visited {
+  color: #0366d6;
+}
+
 /* ul, ol {
   margin: 15px 0;
   padding-left: 30px;
