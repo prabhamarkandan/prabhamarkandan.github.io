@@ -1,19 +1,10 @@
----
----
-
-//
-// IMPORTS
-//
-
-@import "reset";
-@import "variables";
-// Syntax highlighting @import is at the bottom of this file
+/* Pure CSS file for GitHub Pages compatibility */
 
 /**************/
 /* BASE RULES */
 /**************/
 
-html {
+/* html {
   font-size: 100%;
 }
 
@@ -28,7 +19,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-}
+} 
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
@@ -75,9 +66,9 @@ a {
   &:hover, &:active {
     color: $blue;
   }
-}
+} */
 
-ul, ol {
+/* ul, ol {
   margin: 15px 0;
   padding-left: 30px;
 }
@@ -108,9 +99,9 @@ strong, b {
 
 img {
   max-width: 100%;
-}
+} */
 
-// Fixes images in popup boxes from Google Translate
+/* // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
 }
@@ -128,10 +119,10 @@ img {
 ::selection {
   color: $black;
   background: $lightGray;
-}
+} */
 
-// Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
+/* Nicolas Gallagher's micro clearfix hack
+   http://nicolasgallagher.com/micro-clearfix-hack/ */
 .clearfix:before,
 .clearfix:after {
     content: " ";
@@ -146,9 +137,9 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 
-//
-// .masthead
-//
+/*
+ * .masthead
+ */
 
 .wrapper-masthead {
   margin-bottom: 50px;
@@ -156,11 +147,9 @@ img {
 
 .masthead {
   padding: 0px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #ddd;
 
-  @include mobile {
-    text-align: center;
-  }
+  /* Mobile styles would go here */
 }
 
 /* .site-avatar {
@@ -188,18 +177,11 @@ img {
   width: 100%;
 }
 
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-}
-
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #333;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -207,48 +189,32 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #666;
   font-size: 16px;
-	
-  @include mobile {
-    margin: 3px 0;
-  }
 }
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  margin-top: 23px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
-
-  a {
-    margin-left: 20px;
-    color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
-
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
-  }
 }
 
-//
-// .main
-//
+nav a {
+  margin-left: 20px;
+  color: #333;
+  text-align: right;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+/*
+ * .main
+ */
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #ddd;
 }
 
 .posts > .post:last-child {
@@ -256,24 +222,22 @@ nav {
   border-bottom: none;
 }
 
-.post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-  }
+.post blockquote {
+  margin: 1.8em .8em;
+  border-left: 2px solid #666;
+  padding: 0.1em 1em;
+  color: #666;
+  font-size: 22px;
+  font-style: italic;
+}
 
-  .comments {
-    margin-top: 10px;
-  }
+.post .comments {
+  margin-top: 10px;
+}
 
-  .read-more {
-    /* text-transform: uppercase; */
-    font-size: 15px;
-  }
+.post .read-more {
+  /* text-transform: uppercase; */
+  font-size: 15px;
 }
 
 .wrapper-footer {
@@ -281,7 +245,7 @@ nav {
   border-top: 1px solid #ddd;
   padding-top: 15px;
   /* border-bottom: 1px solid #ddd; */
-  background-color: $lightGray;
+  background-color: #f8f8f8;
 }
 
 footer {
@@ -290,7 +254,4 @@ footer {
 }
 
 
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "highlights";
-@import "svg-icons";
+/* Syntax highlighting and SVG icons would be handled by the Jekyll theme */
