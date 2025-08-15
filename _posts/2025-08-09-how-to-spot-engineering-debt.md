@@ -59,7 +59,6 @@ When Twitter faced a string of major outages in 2022, it wasn’t just bad luck 
 This hidden debt left their system brittle, turning rapid growth into repeated firefighting. The constant firefighting drained resources and slowed innovation, illustrating how hidden debt can paralyze even the most high-profile platforms.
 
 [Elon Musk's X suffered yet another global outage - TechCrunch](https://techcrunch.com/2023/12/20/x-twitter-down-for-users-outage/)
-
 [X continues to suffer bugs following Thursday outage - TechCrunch](https://techcrunch.com/2025/05/23/x-continues-to-suffer-bugs-following-thursday-outage/)
 
 It’s a story many tech leaders know too well: moving fast without fixing the cracks first can bring your whole product to its knees.
@@ -125,7 +124,7 @@ The most subtle, and often the most crippling - the human and structural issues 
 
 Spotify’s ‘squad’ model was designed to break down these silos, empowering small, autonomous teams with clear ownership to accelerate delivery and innovation.
 
-- [Spotify engineering culture (part 1) | Spotify Engineering](https://engineering.atspotify.com/2014/3/spotify-engineering-culture-part-1)
+- [Spotify engineering culture (part 1) - Spotify Engineering](https://engineering.atspotify.com/2014/3/spotify-engineering-culture-part-1)
 
 #### Organizational Debt: The Foundation You Can’t Ignore
 
@@ -177,13 +176,13 @@ The more you can show how tackling debt pays off—whether in dollars saved, tim
 *Use this quick test to identify your biggest bottleneck.*
 
 **Q1:** If you had all the ownership and approvals you needed, could you fix it without changing how teams are structured?
-- ✅ Yes -> **Technical Debt**
+✓ Yes -> **Technical Debt**
 
 **Q2:** Is the main slowdown caused by steps, tools, or approvals that are too slow or manual?
-- ✅ Yes -> **Process Debt**
+✓ Yes -> **Process Debt**
 
 **Q3:** Is the main challenge figuring out who owns the work, or aligning the right people to do it?
-- ✅ Yes -> **Organizational Debt**
+✓ Yes -> **Organizational Debt**
 
 ---
 
