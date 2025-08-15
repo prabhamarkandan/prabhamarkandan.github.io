@@ -5,8 +5,6 @@ date: 2025-08-13
 categories: [reflection, engineering]
 ---
 
-### The Joy of Creating
-
 Many of us became software engineers for one simple reason: **the joy of bringing ideas to life.**
 
 That thrill of seeing a website, system, or product come alive, creating something from nothing - was its own reward.
