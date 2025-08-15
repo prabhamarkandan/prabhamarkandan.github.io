@@ -5,18 +5,30 @@ date: 2025-08-13
 categories: [reflection, engineering]
 ---
 
+## The Joy of Creating
+
 Many of us became software engineers for one simple reason: **the joy of bringing ideas to life.**
+
 That thrill of seeing a website, system, or product come alive, creating something from nothing - was its own reward.
 
 For me, recently, I’ve rediscovered the thrill of building, and I’ve been absolutely loving it. Every working prototype, every experiment reminds me why I fell in love with creating.
 
+## Artisans and Mastery
+
 Before the Industrial Revolution, artisans controlled every step of their craft. 
 I imagine the mastery of their skill would have been deeply rewarding, each creation a reflection of care, expertise, and pride. Artisans could take delight in every step of their work. 
-Ikigai, the Japanese concept of finding joy and purpose in one’s work, reminds us that fulfillment comes from such mastery. A vivid example comes from Ken Mogi’s book, where a Michelin sushi chef wakes at 4 a.m. to pick the best fish for his customers - a dedication that embodies mastery and purpose.
+
+**Ikigai**, the Japanese concept of **finding joy and purpose in one’s work,** reminds us that fulfillment comes from such mastery. A vivid example comes from Ken Mogi’s book, where a Michelin sushi chef wakes at 4 a.m. to pick the best fish for his customers - a dedication that embodies mastery and purpose.
 
 Then mass production arrived. Many artisans were replaced, while managers orchestrated systems at scale, and hierarchies shifted. The focus moved from craft and mastery to efficiency and oversight.
 
-Now, AI is rewriting the rules again. By automating routine work, it is giving us the chance to return to what matters most: craft, mastery, and building things that reflect our skill and creativity. Leaders can combine hands-on creation with strategic oversight, the new “maker-manager” model.
+## AI and the Return to the Craft
+
+> Now, AI is rewriting the rules again. 
+
+By automating routine work, it is giving us the chance to return to what matters most: **craft, mastery, and building things that reflect our skill and creativity.**
+
+Leaders can combine hands-on creation with strategic oversight, the new “maker-manager” model.
 
 > Jensen Huang: “AI is the greatest technology force of our lifetime. It’s the great equalizer. Everybody can be a programmer now - you just have to say something to the computer.”
 
@@ -32,6 +44,8 @@ Now, AI is rewriting the rules again. By automating routine work, it is giving u
 [Quote in "Hit Refresh"](https://books.google.com/books?id=Qx4rDwAAQBAJ&pg=PA206#v=onepage&q&f=false)
 
 This analogy highlights that the same holds true for leadership and creation: you can’t sit on the sidelines - you have to actively build, experiment, and participate. 
+
+## Championing the Freedom to create
 
 **It is about time.** This should not be a surprise - switching back to an IC role, building while leading, or **rediscovering the joy of creation, whatever the job title may be**, however one chooses to build, should be **normal, expected, and celebrated.**
 
