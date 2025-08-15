@@ -5,7 +5,7 @@ date: 2025-08-13
 categories: [reflection, engineering]
 ---
 
-## The Joy of Creating
+### The Joy of Creating
 
 Many of us became software engineers for one simple reason: **the joy of bringing ideas to life.**
 
@@ -13,7 +13,7 @@ That thrill of seeing a website, system, or product come alive, creating somethi
 
 For me, recently, I’ve rediscovered the thrill of building, and I’ve been absolutely loving it. Every working prototype, every experiment reminds me why I fell in love with creating.
 
-## Artisans and Mastery
+### Artisans and Mastery
 
 Before the Industrial Revolution, artisans controlled every step of their craft. 
 I imagine the mastery of their skill would have been deeply rewarding, each creation a reflection of care, expertise, and pride. Artisans could take delight in every step of their work. 
@@ -22,7 +22,7 @@ I imagine the mastery of their skill would have been deeply rewarding, each crea
 
 Then mass production arrived. Many artisans were replaced, while managers orchestrated systems at scale, and hierarchies shifted. The focus moved from craft and mastery to efficiency and oversight.
 
-## AI and the Return to the Craft
+### AI and the Return to the Craft
 
 > Now, AI is rewriting the rules again. 
 
@@ -45,7 +45,7 @@ Leaders can combine hands-on creation with strategic oversight, the new “maker
 
 This analogy highlights that the same holds true for leadership and creation: you can’t sit on the sidelines - you have to actively build, experiment, and participate. 
 
-## Championing the Freedom to create
+### Championing the Freedom to create
 
 **It is about time.** This should not be a surprise - switching back to an IC role, building while leading, or **rediscovering the joy of creation, whatever the job title may be**, however one chooses to build, should be **normal, expected, and celebrated.**
 
