@@ -22,8 +22,8 @@ In this two-part series, you’ll get practical strategies and real-world exampl
  - Diagnose the real root causes, not just the symptoms
  - Build a resilient, accountable engineering foundation for sustainable, fast-moving innovation
  
-- **Part 1** dives deep into how to spot the warning signs and shine a light on the cracks.
-- **Part 2** will show you how to fix them for good.
+**Part 1** dives deep into how to spot the warning signs and shine a light on the cracks.
+**Part 2** will show you how to fix them for good.
 
 If you want your AI-powered features to deliver real value - not just demos or prototypes - this series is your roadmap.
 
