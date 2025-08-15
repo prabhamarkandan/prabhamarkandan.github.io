@@ -22,8 +22,8 @@ In this two-part series, you’ll get practical strategies and real-world exampl
  - Diagnose the real root causes, not just the symptoms
  - Build a resilient, accountable engineering foundation for sustainable, fast-moving innovation
  
-**Part 1** dives deep into how to spot the warning signs and shine a light on the cracks.
-**Part 2** will show you how to fix them for good.
+- **Part 1** dives deep into how to spot the warning signs and shine a light on the cracks.
+- **Part 2** will show you how to fix them for good.
 
 If you want your AI-powered features to deliver real value - not just demos or prototypes - this series is your roadmap.
 
@@ -58,8 +58,8 @@ When Twitter faced a string of major outages in 2022, it wasn’t just bad luck 
 
 This hidden debt left their system brittle, turning rapid growth into repeated firefighting. The constant firefighting drained resources and slowed innovation, illustrating how hidden debt can paralyze even the most high-profile platforms.
 
-[Elon Musk's X suffered yet another global outage - TechCrunch](https://techcrunch.com/2023/12/20/x-twitter-down-for-users-outage/)
-[X continues to suffer bugs following Thursday outage - TechCrunch](https://techcrunch.com/2025/05/23/x-continues-to-suffer-bugs-following-thursday-outage/)
+- [Elon Musk's X suffered yet another global outage - TechCrunch](https://techcrunch.com/2023/12/20/x-twitter-down-for-users-outage/)
+- [X continues to suffer bugs following Thursday outage - TechCrunch](https://techcrunch.com/2025/05/23/x-continues-to-suffer-bugs-following-thursday-outage/)
 
 It’s a story many tech leaders know too well: moving fast without fixing the cracks first can bring your whole product to its knees.
 
