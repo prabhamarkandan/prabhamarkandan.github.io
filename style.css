@@ -44,17 +44,17 @@ a:visited {
 }
 
 /* Links within article content should be more visible */
-.post a {
+.post .entry a, .post p a, .post li a, .post blockquote a, .post div a {
   color: #0366d6;
   text-decoration: none;
 }
 
-.post a:hover {
+.post .entry a:hover, .post p a:hover, .post li a:hover, .post blockquote a:hover, .post div a:hover {
   color: #0366d6;
   text-decoration: underline;
 }
 
-.post a:visited {
+.post .entry a:visited, .post p a:visited, .post li a:visited, .post blockquote a:visited, .post div a:visited {
   color: #0366d6;
 }
 
