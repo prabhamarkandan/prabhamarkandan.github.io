@@ -20,17 +20,17 @@ Now, AI is rewriting the rules again. By automating routine work, it is giving u
 
 Jensen Huang:  
 > “AI is the greatest technology force of our lifetime. It’s the great equalizer. Everybody can be a programmer now - you just have to say something to the computer.”
-> 
+
 [Gulf Insider: NVIDIA CEO: AI ‘Greatest Equalizer’ Of Time](https://www.gulf-insider.com/nvidia-ceo-ai-greatest-equalizer-of-time/)  
 [Forbes: Artificial Intelligence: The Great Equalizer](https://www.forbes.com/councils/forbestechcouncil/2023/08/16/artificial-intelligence-the-great-equalizer/)
 
-Satya Nadella:  
+  
+Satya Nadella:
 > “Don’t be a know-it-all; be a learn-it-all.”
->
-[Fortune, May 2024](https://fortune.com/2024/05/20/satya-nadella-microsoft-culture-growth-mindset-learn-it-alls-know-it-alls/)
-
+> 
 > “You don’t get fit by watching others go to the gym. You have to go to the gym.”
->
+
+[Fortune, May 2024](https://fortune.com/2024/05/20/satya-nadella-microsoft-culture-growth-mindset-learn-it-alls-know-it-alls/)
 [Microsoft Ignite 2017 Keynote](https://news.microsoft.com/speeches/satya-nadella-microsoft-ignite-2017/)  
 [Quote in "Hit Refresh"](https://books.google.com/books?id=Qx4rDwAAQBAJ&pg=PA206#v=onepage&q&f=false)
 
