@@ -18,16 +18,13 @@ Then mass production arrived. Many artisans were replaced, while managers orches
 
 Now, AI is rewriting the rules again. By automating routine work, it is giving us the chance to return to what matters most: craft, mastery, and building things that reflect our skill and creativity. Leaders can combine hands-on creation with strategic oversight, the new “maker-manager” model.
 
-Jensen Huang:  
-> “AI is the greatest technology force of our lifetime. It’s the great equalizer. Everybody can be a programmer now - you just have to say something to the computer.”
+> Jensen Huang: “AI is the greatest technology force of our lifetime. It’s the great equalizer. Everybody can be a programmer now - you just have to say something to the computer.”
 
 [Gulf Insider: NVIDIA CEO: AI ‘Greatest Equalizer’ Of Time](https://www.gulf-insider.com/nvidia-ceo-ai-greatest-equalizer-of-time/)  
 [Forbes: Artificial Intelligence: The Great Equalizer](https://www.forbes.com/councils/forbestechcouncil/2023/08/16/artificial-intelligence-the-great-equalizer/)
 
-  
-Satya Nadella:
-> “Don’t be a know-it-all; be a learn-it-all.”
-> 
+
+> Satya Nadella: “Don’t be a know-it-all; be a learn-it-all.”
 > “You don’t get fit by watching others go to the gym. You have to go to the gym.”
 
 [Fortune, May 2024](https://fortune.com/2024/05/20/satya-nadella-microsoft-culture-growth-mindset-learn-it-alls-know-it-alls/)
