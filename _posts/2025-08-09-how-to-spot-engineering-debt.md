@@ -5,8 +5,6 @@ date: 2025-08-10
 categories: engineering ai leadership
 ---
 
-## About This Series
-
 
 **This is Part 1 of a two-part series on engineering debt in the age of AI.**  
 
