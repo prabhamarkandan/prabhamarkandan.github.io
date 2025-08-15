@@ -11,6 +11,22 @@
   width: 100%;
 }
 
+/* Modern link styling */
+a {
+  color: #0366d6;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #0256cc;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #6f42c1;
+}
+
 /* Typography and other base rules are handled by the Jekyll theme */
 
 /* ul, ol {
