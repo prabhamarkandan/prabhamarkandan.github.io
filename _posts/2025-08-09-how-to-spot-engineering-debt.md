@@ -61,6 +61,8 @@ This hidden debt left their system brittle, turning rapid growth into repeated f
 [Elon Musk's X suffered yet another global outage | TechCrunch](https://techcrunch.com/2023/12/20/x-twitter-down-for-users-outage/)
 [X continues to suffer bugs following Thursday outage | TechCrunch](https://techcrunch.com/2025/05/23/x-continues-to-suffer-bugs-following-thursday-outage/)
 
+[Technical Debt Quadrant - Martin Fowler](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
+
 It’s a story many tech leaders know too well: moving fast without fixing the cracks first can bring your whole product to its knees.
 
 ---
