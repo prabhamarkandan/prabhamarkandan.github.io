@@ -13,18 +13,18 @@
 
 /* Modern link styling */
 a {
-  color: #0366d6;
+  color: #333;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 a:hover {
-  color: #0256cc;
+  color: #0366d6;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #6f42c1;
+  color: #555;
 }
 
 /* Typography and other base rules are handled by the Jekyll theme */
@@ -167,15 +167,6 @@ nav a {
   text-align: right;
   font-weight: 300;
   letter-spacing: 1px;
-}
-
-nav a:hover {
-  color: #0366d6;
-  text-decoration: none;
-}
-
-nav a:visited {
-  color: #333;
 }
 
 /*
