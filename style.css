@@ -169,6 +169,15 @@ nav a {
   letter-spacing: 1px;
 }
 
+nav a:hover {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+nav a:visited {
+  color: #333;
+}
+
 /*
  * .main
  */
