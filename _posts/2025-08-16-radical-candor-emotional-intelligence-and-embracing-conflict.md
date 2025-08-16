@@ -5,8 +5,6 @@ date: 2025-08-16
 categories: engineering leadership
 ---
 
-# Radical Candor, Emotional Intelligence, and Embracing Conflict
-
 **Imagine this:** A teammate pitches an idea destined to fail—but everyone stays silent. Tension simmers. Why? Because conflict feels unsafe. What if it didn’t have to?
 
 We’ve all been there - holding back feedback, biting our tongues, avoiding tough conversations. But conflict **can be constructive**, turning friction into trust, mistakes into lessons, and tough talks into breakthroughs. And when handled well, we can come out the other side with relationships not just intact, but strengthened.
@@ -27,7 +25,7 @@ This combination transforms conflict into **trust, safety, and innovation**, mak
 
 Radical Candor isn’t just “being nice.” It’s a mix of **empathy and honesty** (Scott, 2017).
 
-* **Care personally:** Show you value the person. Think of it as a touch of **liberation ethics**—interactions that empower, treat people fairly, and remove judgment about circumstances beyond their control.
+* **Care personally:** Show you value the person. Think of it as a touch of **liberation ethics** - interactions that empower, treat people fairly, and remove judgment about circumstances beyond their control.
 * **Speak directly:** Address the issue clearly and honestly, without sugarcoating.
 
 **Ruinous Empathy vs. Obnoxious Aggression:** Ignore the issue = Ruinous Empathy. Snap at them = Obnoxious Aggression. Radical Candor = balance of care + challenge.
@@ -99,7 +97,7 @@ Tension that could have blocked progress becomes **alignment, learning, and bett
 
 ## **Closing Thought**
 
-Every tough conversation I’ve faced became easier once I combined **care, clarity, and focus**. Conflict doesn’t have to be scary—**Radical Candor + Emotional Intelligence + problem-focused conversations = trust, safety, innovation**. Sprinkle in **liberation ethics**, and your interactions aren’t just effective—they’re empowering.
+Every tough conversation I’ve faced became easier once I combined **care, clarity, and focus**. Conflict doesn’t have to be scary - **Radical Candor + Emotional Intelligence + problem-focused conversations = trust, safety, innovation**. Sprinkle in **liberation ethics**, and your interactions aren’t just effective—they’re empowering.
 
 ---
 
