@@ -110,9 +110,3 @@ Every tough conversation I’ve faced became easier once I combined **care, clar
 3. Mayer, John D., and Peter Salovey. “What is Emotional Intelligence?” In *Emotional Development and Emotional Intelligence: Educational Implications*, Basic Books, 1997.
 4. 6 Seconds. “The Six Seconds EQ Model.” [https://www.6seconds.org](https://www.6seconds.org)
 5. BrainManager. “Daniel Goleman’s Emotional Intelligence Theory.” [https://brainmanager.io/blog/emotional/daniel-goleman-emotional-intelligence-theory](https://brainmanager.io/blog/emotional/daniel-goleman-emotional-intelligence-theory)
-
----
-
-If you want, I can **next craft punchy LinkedIn teaser lines** that draw readers to this Medium-ready article while keeping the storytelling and intellectual depth intact.
-
-Do you want me to do that?
