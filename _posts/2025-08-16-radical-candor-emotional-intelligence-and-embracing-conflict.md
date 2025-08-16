@@ -5,7 +5,7 @@ date: 2025-08-16
 categories: engineering leadership
 ---
 
-**Imagine this:** A teammate pitches an idea destined to fail—but everyone stays silent. Tension simmers. Why? Because conflict feels unsafe. What if it didn’t have to?
+**Imagine this:** A teammate pitches an idea destined to fail - but everyone stays silent. Tension simmers. Why? Because conflict feels unsafe. What if it didn’t have to?
 
 We’ve all been there - holding back feedback, biting our tongues, avoiding tough conversations. But conflict **can be constructive**, turning friction into trust, mistakes into lessons, and tough talks into breakthroughs. And when handled well, we can come out the other side with relationships not just intact, but strengthened.
 
