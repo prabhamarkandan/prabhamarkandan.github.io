@@ -30,8 +30,8 @@ Radical Candor isn’t just “being nice.” It’s a mix of **empathy and hone
 
 **Ruinous Empathy vs. Obnoxious Aggression:** Ignore the issue = Ruinous Empathy. Snap at them = Obnoxious Aggression. Radical Candor = balance of care + challenge.
 
-**Story Example:** You’re mentoring a junior team member who consistently misses small but important details in code reviews. You want them to grow, but also need them to improve. You could ignore it or snap—but instead, you say:
-*"I see the effort you’re putting in, and I want you to succeed. Here are a few key details we need to focus on—let’s work through them together."*
+**Story Example:** You’re mentoring a junior team member who consistently misses small but important details in code reviews. You want them to grow, but also need them to improve. You could ignore it or snap - but instead, you say:
+*"I see the effort you’re putting in, and I want you to succeed. Here are a few key details we need to focus on - let’s work through them together."*
 
 This is Radical Candor in action: **care personally, challenge directly**, building trust while improving outcomes.
 
@@ -47,7 +47,7 @@ Conflict works best when paired with **Emotional Intelligence (EI)**. Many frame
 
 **Pause, Don’t React:**
 
-Imagine this: You’ve spent days preparing deep technical work for a critical project. In the discovery workshop, a team member who isn’t familiar with the topic starts speaking up, saying multiple incorrect things. Frustration rises—you could snap or stay silent. Instead, you pause (**self-regulation**), notice your emotions (**self-awareness**), and respond intentionally:
+Imagine this: You’ve spent days preparing deep technical work for a critical project. In the discovery workshop, a team member who isn’t familiar with the topic starts speaking up, saying multiple incorrect things. Frustration rises - you could snap or stay silent. Instead, you pause (**self-regulation**), notice your emotions (**self-awareness**), and respond intentionally:
 *"Thanks for raising that point. Here’s the context and why this approach might be risky."*
 
 The conversation stays **problem-focused, not personal**, and the session moves forward productively.
@@ -66,7 +66,7 @@ Separate the **problem from the person**:
 
 **Problem First, Person Later:**
 
-Imagine this: You’re in an agile retrospective and notice a recurring bottleneck in testing. You hesitate—you don’t want a colleague to feel attacked. If you stay silent, the problem persists. Instead, you say:
+Imagine this: You’re in an agile retrospective and notice a recurring bottleneck in testing. You hesitate - you don’t want a colleague to feel attacked. If you stay silent, the problem persists. Instead, you say:
 *"I noticed that our testing cycle is taking longer than expected. What if we explore automating part of the process or reallocating resources to speed it up?"*
 
 By focusing on the problem and desired outcome, the conversation becomes productive, not personal.
@@ -90,7 +90,7 @@ Tension that could have blocked progress becomes **alignment, learning, and bett
 1. Start by acknowledging effort or strengths.
 2. Focus on behaviors and outcomes, not personalities.
 3. Pause before reacting to triggers.
-4. Encourage dialogue—invite perspectives.
+4. Encourage dialogue - invite perspectives.
 5. Follow up; conflict resolution is ongoing.
 
 ---
