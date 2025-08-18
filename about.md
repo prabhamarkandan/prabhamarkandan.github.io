@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## About Me
-
 I'm Prabha Markandan, a software engineer turned engineering leader with two decades of experience across tech, banking, finance, and insurance.
 
 I began my career as a full-stack engineer, and that hands-on experience continues to shape how I lead teams, evolve platforms, and deliver systems with purpose. Over the years, I've led digital transformation initiatives, scaled distributed teams, improved operational health, and shaped platform strategy and engineering practices to help teams deliver faster, with quality and impact.

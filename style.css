@@ -58,6 +58,35 @@ a:visited {
   color: #0366d6;
 }
 
+/* Page styling (for About page, etc.) */
+.page h1, .page h2, .page h3, .page h4, .page h5, .page h6 {
+  color: #333;
+}
+
+.page p, .page li, .page div {
+  color: #444;
+  line-height: 1.6;
+}
+
+.page {
+  color: #444;
+}
+
+/* Links within page content should be more visible */
+.page a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.page a:hover {
+  color: #0366d6;
+  text-decoration: underline;
+}
+
+.page a:visited {
+  color: #0366d6;
+}
+
 /* ul, ol {
   margin: 15px 0;
   padding-left: 30px;
