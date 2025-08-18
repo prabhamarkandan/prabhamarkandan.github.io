@@ -63,7 +63,7 @@ a:visited {
   color: #333;
 }
 
-.page p, .page li, .page div {
+.page p, .page li, .page div, .page .entry {
   color: #444;
   line-height: 1.6;
 }
@@ -73,17 +73,18 @@ a:visited {
 }
 
 /* Links within page content should be more visible */
-.page a {
+.page a, .page .entry a {
   color: #0366d6;
   text-decoration: none;
+  font-weight: 500;
 }
 
-.page a:hover {
+.page a:hover, .page .entry a:hover {
   color: #0366d6;
   text-decoration: underline;
 }
 
-.page a:visited {
+.page a:visited, .page .entry a:visited {
   color: #0366d6;
 }
 
