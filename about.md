@@ -17,12 +17,13 @@ As a leadership coach (ICF-accredited, in progress), I’ve been working on myse
 
 I believe life’s work is about learning, growing, and living our best lives - while helping others do the same.
 
-If you’re interested in coaching, engineering leadership, if any of this resonates with you, or just want to connect and say hello, I’d love to hear from you. 
-
 > "Success is liking yourself, liking what you do, and liking how you do it."
 > 
 > *Maya Angelou*
-  
+
+
+If you’re interested in coaching, engineering leadership, if any of this resonates with you, or just want to connect and say hello, I’d love to hear from you. 
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/prabha-markandan-24816918/).
 
 ---
