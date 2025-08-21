@@ -19,6 +19,10 @@ I believe life’s work is about learning, growing, and living our best lives - 
 
 If you’re interested in coaching, engineering leadership, if any of this resonates with you, or just want to connect and say hello, I’d love to hear from you. 
 
+> "Success is liking yourself, liking what you do, and liking how you do it."
+> 
+> *Maya Angelou*
+  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/prabha-markandan-24816918/).
 
 ---
