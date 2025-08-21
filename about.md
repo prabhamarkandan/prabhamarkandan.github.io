@@ -4,19 +4,24 @@ title: About
 permalink: /about/
 ---
 
-I'm Prabha Markandan, a software engineer turned engineering leader with two decades of experience across tech, banking, finance, and insurance.
+About Me
 
-I began my career as a full-stack engineer, and that hands-on experience continues to shape how I lead teams, evolve platforms, and deliver outcomes with purpose. Over the years, I've led digital transformation initiatives, scaled distributed teams, improved operational health, and shaped platform strategy and engineering practices to help teams deliver faster, with quality and impact.
+I’m Prabha Markandan, an engineering and delivery leader with two decades of experience across tech, banking, finance, and insurance. 
+I began as a full-stack engineer, and that hands-on experience continues to inform how I support teams, shape platforms, and deliver meaningful outcomes, all while having the privilege of learning from every project and every person I work with.
 
-My writing explores engineering leadership, delivery excellence, platform strategy, and the evolving role of AI in how we build and solve problems. I'm fascinated by how breakthroughs in Generative AI, LLMs, and Agentic AI are transforming software engineering, automating workflows, and reshaping the global economy. I'm deeply curious about how we can guide AI responsibly, ethically, and for societal benefit.
+Over the years, I’ve enjoyed leading digital transformation initiatives, helping distributed teams grow, improving operational health, and contributing to platform strategy and engineering practices - always with a focus on enabling teams to deliver effectively and with impact.
 
-I'm also a leadership coach, currently pursuing ICF accreditation, helping emerging leaders grow with confidence, build high-performing engineering teams, and shape strategy effectively. Beyond tech and leadership, I love exploring history, AI, and technology, sharing insights through writing, and connecting with people to inspire learning and get inspired.
+I love writing about engineering leadership, delivery excellence, technology strategy, and the evolving role of AI in how we build and solve problems. I’m fascinated by Generative AI, LLMs, and Agentic AI, and how we can guide them responsibly, ethically, and in ways that contribute to a more equitable world.
 
-If you're curious about coaching or just want to connect, I'd love to hear from you.
+I also enjoy reading about history and connecting the dots between past events and today’s economy - it gives me perspective on how the world shapes us and the choices we make.
 
-## Let's Connect
+As a leadership coach (ICF-accredited, in progress), I’ve been working on myself and helping others to overcome limiting beliefs, build confidence, develop their leadership potential, and achieve meaningful impact. 
 
-I'd love to hear from you! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prabha-markandan-24816918/).
+I believe life’s work is about learning, growing, and living our best lives - while helping others do the same.
+
+If you’re interested in coaching, engineering leadership, if any of this resonates with you, or just want to connect and say hello, I’d love to hear from you. 
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/prabha-markandan-24816918/).
 
 ---
 
