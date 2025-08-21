@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-About Me
-
 I’m Prabha Markandan, an engineering and delivery leader with two decades of experience across tech, banking, finance, and insurance. 
 I began as a full-stack engineer, and that hands-on experience continues to inform how I support teams, shape platforms, and deliver meaningful outcomes, all while having the privilege of learning from every project and every person I work with.
 
