@@ -62,11 +62,13 @@ We’ll use this scenario throughout the article: Imagine a team member repeated
 
 Radical Candor blends empathy and honesty (Scott, 2017). It’s about addressing issues clearly while showing you value the person.
 
-**Care Personally:** Show respect and belief in the person’s potential. Treat interactions as opportunities to empower, not judge.
+#### **Care Personally:** 
+Show respect and belief in the person’s potential. Treat interactions as opportunities to empower, not judge.
 
-**Speak Directly:** Address the issue clearly and honestly, without sugarcoating.
+#### **Speak Directly:** 
+Address the issue clearly and honestly, without sugarcoating.
 
-**Avoid extremes:**
+#### **Avoid extremes:**
 
 1. Ignore the issue -> Ruinous Empathy *(pretending it’s fine, quietly sabotaging outcomes)*
 2. Snap at them -> Obnoxious Aggression *(blunt, harsh, or overly critical)*
@@ -133,9 +135,11 @@ The conversation stays problem-focused, modeling composure, while signaling acco
 
 Separate the problem from the person:
 
-**Be specific:** Highlight concrete behaviors or results, not personalities.
-**Frame discussions around solutions:** Align on goals, not blame.
-**Maintain trust:** Keep conflict constructive, prevent defensiveness, and build trust.
+#### **Be specific:**  
+Highlight concrete behaviors or results, not personalities.
+#### **Frame discussions around solutions:** 
+Align on goals, not blame.
+#### **Maintain trust:** Keep conflict constructive, prevent defensiveness, and build trust.
 
 **Example:** Using the same code review scenario, instead of saying, “You always miss key details,” you could say:
 
