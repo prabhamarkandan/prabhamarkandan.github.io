@@ -18,7 +18,7 @@ Learning to resolve conflict - whether de-escalating high-stakes situations or p
 - Respect others enough to believe they can handle it.
 - Value growth - yours and theirs - over short-term comfort.
 
-When people shy away from these conversations, small issues grow into bigger ones. Misunderstandings linger, performance drifts, and resentment builds quietly. 
+**When people shy away from these conversations,** small issues grow into bigger ones. Misunderstandings linger, performance drifts, and resentment builds quietly. 
 
 But leaning in, builds a culture where people feel safe, respected, and accountable.
 
@@ -36,11 +36,11 @@ Real impact comes when you combine three essential skills:
    
 *How you frame your words to balance care and honesty.*
 
-3. **Emotional Intelligence: Know your emotions and triggers -> Manage yourself -> Act intentionally**
+2. **Emotional Intelligence: Know your emotions and triggers -> Manage yourself -> Act intentionally**
    
 *How you manage your reactions, notice triggers, and pause before responding.*
 
-4. **Focus on Problems, Not People**
+3. **Focus on Problems, Not People**
    
 *How you focus on the issue, not the person, and suggest actionable next steps.*
 
