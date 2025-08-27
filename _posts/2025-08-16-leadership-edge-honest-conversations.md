@@ -24,7 +24,11 @@ But leaning in, builds a culture where people feel safe, respected, and accounta
 
 ---
 
-In this article, I’ll share a practical framework combining Radical Candor, Emotional Intelligence, and problem-focused conversations - tools that turn friction into trust, mistakes into lessons, and tough talks into breakthroughs. I’ve been using this approach for years, and it has worked for me time and time again. Read on to learn how to handle difficult conversations while strengthening relationships and driving better outcomes.
+**In this article,** I’ll share a practical framework combining Radical Candor, Emotional Intelligence, and problem-focused conversations - tools that turn friction into trust, mistakes into lessons, and tough talks into breakthroughs. 
+
+I’ve been using this approach for years, and it has worked for me time and time again. 
+
+Read on to learn how to handle difficult conversations while strengthening relationships and driving better outcomes.
 
 ---
 
@@ -48,17 +52,18 @@ Applied together, these tools turn conflict into trust, safety, and innovation, 
 
 ---
 
-### Example Scenario (used throughout)
+## Example Scenario (used throughout)
 
 We’ll use this scenario throughout the article: Imagine a team member repeatedly submits code with errors that slow down the project. You need to address it, but you want to handle it effectively.
 
 ---
 
-### Radical Candor: Care Personally + Speak Directly
+## Radical Candor: Care Personally + Speak Directly
 
 Radical Candor blends empathy and honesty (Scott, 2017). It’s about addressing issues clearly while showing you value the person.
 
 **Care Personally:** Show respect and belief in the person’s potential. Treat interactions as opportunities to empower, not judge.
+
 **Speak Directly:** Address the issue clearly and honestly, without sugarcoating.
 
 **Avoid extremes:**
@@ -75,26 +80,34 @@ This balances care with challenge, showing Radical Candor in action: addressing 
 
 ---
 
-### Emotional Intelligence: Know -> Manage -> Act
+## Emotional Intelligence: Know -> Manage -> Act
 
 Conflict is best handled when paired with Emotional Intelligence. Here’s how to make it actionable:
 
-**Know (Self-Awareness):** Identify your emotional triggers. Notice how your body, thoughts, or tone change when you’re stressed, frustrated, or defensive. Awareness is the first step.
+#### **Know (Self-Awareness):** 
 
-   *Practical tip for self-reflection*
+Identify your emotional triggers. Notice how your body, thoughts, or tone change when you’re stressed, frustrated, or defensive. Awareness is the first step.
+
+   💡 ***Practical tip for self-reflection***
    
-   *Set aside 10 - 15 minutes at the end of the day or after a challenging situation. Write down:*
-      *- What triggered a strong emotional reaction?*
-      *- How did you respond?*
-      *- What could you do differently next time?*
+   *Set aside 10 - 15 minutes at the end of the day or after a challenging situation.*
+   
+   *Write down:*   
+     1. *What triggered a strong emotional reaction?*
+     2. *How did you respond?*
+     3. *What could you do differently next time?*
 
 Over time, patterns will emerge. You’ll start recognizing your triggers early, anticipate your reactions, and develop strategies to handle them more effectively. This small daily habit can significantly improve your emotional awareness and control.
 
-**Manage (Self-Regulation):** Pause before reacting. Use micro-breaks, breathing, or self-talk to regulate impulses. If emotions are high, it’s okay to step away or delay a response. Decide whether to respond immediately or address it later in a controlled setting. Small actions - like counting to ten, taking a short walk, or repeating a calming phrase - can help you regain composure.
+#### **Manage (Self-Regulation):** 
 
-**Act (Intentional Action):** Respond intentionally, focusing on outcomes, solutions, and collaboration rather than venting emotions.
+Pause before reacting. Use micro-breaks, breathing, or self-talk to regulate impulses. If emotions are high, it’s okay to step away or delay a response. Decide whether to respond immediately or address it later in a controlled setting. Small actions - like counting to ten, taking a short walk, or repeating a calming phrase - can help you regain composure.
 
-   *Practical tip*
+#### **Act (Intentional Action):** 
+
+Respond intentionally, focusing on outcomes, solutions, and collaboration rather than venting emotions.
+
+   💡 ***Practical tip***
    
    *Prepare a few go-to phrases for situations you frequently face, so you can respond calmly when emotions run high.*
    
@@ -116,7 +129,7 @@ The conversation stays problem-focused, modeling composure, while signaling acco
 
 ---
 
-### Focus on Problems and Outcomes, Not People
+## Focus on Problems and Outcomes, Not People
 
 Separate the problem from the person:
 
