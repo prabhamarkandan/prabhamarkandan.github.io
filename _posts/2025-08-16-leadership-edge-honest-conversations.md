@@ -32,15 +32,15 @@ In this article, I’ll share a practical framework combining Radical Candor, Em
 
 Real impact comes when you combine three essential skills:
 
-1. **Radical Candor: Care Personally + Speak Directly**
+1 - **Radical Candor: Care Personally + Speak Directly**
    
 *How you frame your words to balance care and honesty.*
 
-2. **Emotional Intelligence: Know your emotions and triggers -> Manage yourself -> Act intentionally**
+2 - **Emotional Intelligence: Know your emotions and triggers -> Manage yourself -> Act intentionally**
    
 *How you manage your reactions, notice triggers, and pause before responding.*
 
-3. **Focus on Problems, Not People**
+3 - **Focus on Problems, Not People**
    
 *How you focus on the issue, not the person, and suggest actionable next steps.*
 
@@ -58,8 +58,8 @@ We’ll use this scenario throughout the article: Imagine a team member repeated
 
 Radical Candor blends empathy and honesty (Scott, 2017). It’s about addressing issues clearly while showing you value the person.
 
-- **Care Personally:** Show respect and belief in the person’s potential. Treat interactions as opportunities to empower, not judge.
-- **Speak Directly:** Address the issue clearly and honestly, without sugarcoating.
+**Care Personally:** Show respect and belief in the person’s potential. Treat interactions as opportunities to empower, not judge.
+**Speak Directly:** Address the issue clearly and honestly, without sugarcoating.
 
 **Avoid extremes:**
 
@@ -81,12 +81,12 @@ Conflict is best handled when paired with Emotional Intelligence. Here’s how t
 
 **Know (Self-Awareness):** Identify your emotional triggers. Notice how your body, thoughts, or tone change when you’re stressed, frustrated, or defensive. Awareness is the first step.
 
-*Practical tip for self-reflection*
-
-*Set aside 10 - 15 minutes at the end of the day or after a challenging situation. Write down:*
-   *- What triggered a strong emotional reaction?*
-   *- How did you respond?*
-   *- What could you do differently next time?*
+   *Practical tip for self-reflection*
+   
+   *Set aside 10 - 15 minutes at the end of the day or after a challenging situation. Write down:*
+      *- What triggered a strong emotional reaction?*
+      *- How did you respond?*
+      *- What could you do differently next time?*
 
 Over time, patterns will emerge. You’ll start recognizing your triggers early, anticipate your reactions, and develop strategies to handle them more effectively. This small daily habit can significantly improve your emotional awareness and control.
 
@@ -94,11 +94,11 @@ Over time, patterns will emerge. You’ll start recognizing your triggers early,
 
 **Act (Intentional Action):** Respond intentionally, focusing on outcomes, solutions, and collaboration rather than venting emotions.
 
-*Practical tip*
-
-*Prepare a few go-to phrases for situations you frequently face, so you can respond calmly when emotions run high.*
-
-*Sometimes the best action is to wait and address the issue later - whether one-on-one or in a calmer forum - rather than reacting in the heat of the moment.*
+   *Practical tip*
+   
+   *Prepare a few go-to phrases for situations you frequently face, so you can respond calmly when emotions run high.*
+   
+   *Sometimes the best action is to wait and address the issue later - whether one-on-one or in a calmer forum - rather than reacting in the heat of the moment.*
 
 **Example:** During a code review, a repeated error is flagged by another team. Frustration rises, and the stakes feel higher, but instead of snapping:
 
