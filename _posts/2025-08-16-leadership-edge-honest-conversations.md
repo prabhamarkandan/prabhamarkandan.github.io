@@ -81,13 +81,12 @@ Conflict is best handled when paired with Emotional Intelligence. Here’s how t
 
 **Know (Self-Awareness):** Identify your emotional triggers. Notice how your body, thoughts, or tone change when you’re stressed, frustrated, or defensive. Awareness is the first step.
 
-> [!NOTE]  
-> Practical tip for self-reflection
->
-> Set aside 10 - 15 minutes at the end of the day or after a challenging situation. Write down:
->    - What triggered a strong emotional reaction?
->    - How did you respond?
->    - What could you do differently next time?
+*Practical tip for self-reflection*
+
+*Set aside 10 - 15 minutes at the end of the day or after a challenging situation. Write down:*
+   *- What triggered a strong emotional reaction?*
+   *- How did you respond?*
+   *- What could you do differently next time?*
 
 Over time, patterns will emerge. You’ll start recognizing your triggers early, anticipate your reactions, and develop strategies to handle them more effectively. This small daily habit can significantly improve your emotional awareness and control.
 
@@ -95,12 +94,11 @@ Over time, patterns will emerge. You’ll start recognizing your triggers early,
 
 **Act (Intentional Action):** Respond intentionally, focusing on outcomes, solutions, and collaboration rather than venting emotions.
 
-> [!NOTE]  
-> Practical tip
->
-> Prepare a few go-to phrases for situations you frequently face, so you can respond calmly when emotions run high.
->
-> Sometimes the best action is to wait and address the issue later - whether one-on-one or in a calmer forum - rather than reacting in the heat of the moment.
+*Practical tip*
+
+*Prepare a few go-to phrases for situations you frequently face, so you can respond calmly when emotions run high.*
+
+*Sometimes the best action is to wait and address the issue later - whether one-on-one or in a calmer forum - rather than reacting in the heat of the moment.*
 
 **Example:** During a code review, a repeated error is flagged by another team. Frustration rises, and the stakes feel higher, but instead of snapping:
 
