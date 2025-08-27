@@ -22,6 +22,8 @@ When people shy away from these conversations, small issues grow into bigger one
 
 But leaning in, builds a culture where people feel safe, respected, and accountable.
 
+---
+
 In this article, I’ll share a practical framework combining Radical Candor, Emotional Intelligence, and problem-focused conversations - tools that turn friction into trust, mistakes into lessons, and tough talks into breakthroughs. I’ve been using this approach for years, and it has worked for me time and time again. Read on to learn how to handle difficult conversations while strengthening relationships and driving better outcomes.
 
 ---
@@ -43,6 +45,8 @@ Real impact comes when you combine three essential skills:
 *How you focus on the issue, not the person, and suggest actionable next steps.*
 
 Applied together, these tools turn conflict into trust, safety, and innovation, making difficult conversations productive, empowering, and growth-oriented.
+
+---
 
 ### Example Scenario (used throughout)
 
@@ -77,22 +81,26 @@ Conflict is best handled when paired with Emotional Intelligence. Here’s how t
 
 **Know (Self-Awareness):** Identify your emotional triggers. Notice how your body, thoughts, or tone change when you’re stressed, frustrated, or defensive. Awareness is the first step.
 
-   *Practical tip for self-reflection:*  
-   Set aside 10 - 15 minutes at the end of the day or after a challenging situation. Write down:
-   - What triggered a strong emotional reaction?
-   - How did you respond?
-   - What could you do differently next time?
+> [!NOTE]  
+> Practical tip for self-reflection
+>
+> Set aside 10 - 15 minutes at the end of the day or after a challenging situation. Write down:
+>    - What triggered a strong emotional reaction?
+>    - How did you respond?
+>    - What could you do differently next time?
 
-   Over time, patterns will emerge. You’ll start recognizing your triggers early, anticipate your reactions, and develop strategies to handle them more effectively. This small daily habit can significantly improve your emotional awareness and control.
+Over time, patterns will emerge. You’ll start recognizing your triggers early, anticipate your reactions, and develop strategies to handle them more effectively. This small daily habit can significantly improve your emotional awareness and control.
 
 **Manage (Self-Regulation):** Pause before reacting. Use micro-breaks, breathing, or self-talk to regulate impulses. If emotions are high, it’s okay to step away or delay a response. Decide whether to respond immediately or address it later in a controlled setting. Small actions - like counting to ten, taking a short walk, or repeating a calming phrase - can help you regain composure.
 
 **Act (Intentional Action):** Respond intentionally, focusing on outcomes, solutions, and collaboration rather than venting emotions.
 
-   *Practical tip:*  
-   Prepare a few go-to phrases for situations you frequently face, so you can respond calmly when emotions run high.
-
-   Sometimes the best action is to wait and address the issue later - whether one-on-one or in a calmer forum - rather than reacting in the heat of the moment.
+> [!NOTE]  
+> Practical tip
+>
+> Prepare a few go-to phrases for situations you frequently face, so you can respond calmly when emotions run high.
+>
+> Sometimes the best action is to wait and address the issue later - whether one-on-one or in a calmer forum - rather than reacting in the heat of the moment.
 
 **Example:** During a code review, a repeated error is flagged by another team. Frustration rises, and the stakes feel higher, but instead of snapping:
 
