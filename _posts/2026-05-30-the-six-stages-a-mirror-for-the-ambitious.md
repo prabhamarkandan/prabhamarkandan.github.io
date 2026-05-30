@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "The Six Stages: A Mirror for the Ambitious"
+title: "Power With Purpose: Why Leadership Source Matters More Than Style"
 date: 2026-05-30 09:00:00 +0000
 categories: [leadership, ambition]
 tags: [power, leadership, personal-growth]
 published: false
+permalink: /power-with-purpose/
+excerpt: "A practical map for ambitious leaders who want authority that builds commitment, not just compliance."
 ---
 
 Leadership  ·  Ambition  ·  Conscious Choice
@@ -91,20 +93,16 @@ Between Stage 4 and Stage 5 sits what Hagberg calls "The Wall." It cannot be str
 The Stage 5 Warrior: Purposeful, Humble, Fierce
 What emerges on the other side of The Wall is not weakness. It is a more refined, more durable, and ultimately more powerful version of the warrior. Stage 5 — Power by Purpose — keeps all the courage, commitment, and inner fire of Stage 3. But the energy is no longer pointed at proving. It's pointed at something worth building.
 
-The Stage 5 warrior has found their calling. Still fierce, still disciplined, still willing to do the hard thing. But no longer fighting for recognition or proof of worth. Fighting because something genuinely matters. Because the world needs what only they can bring. These leaders are deeply grounded — practical, self-aware, and guided by something larger than personal advancement.
-
 This is the archetype that speaks to anyone who has felt the pull between ambition and meaning — between doing more and being more.
 
 Authority without purpose is influence people endure.
 Purpose behind power is something people feel.
-
 The Warrior Was Never the Problem
 This framework doesn't ask you to stop being a warrior. It doesn't say ambition is the problem, that achievement is shallow, or that you should want less. It says: there's more.
 
 The drive, the discipline, the willingness to do hard things — all of that is still present in Stage 5. It's just pointed at something different. Not at proving. At building something that genuinely matters. And paradoxically, that's when leadership becomes most powerful. Not power over. Power with.
 
 The warrior who proves and the warrior who leads are not as far apart as they look. The journey between them doesn't require you to become someone else. It requires you to lead from a deeper place — past the performing, past the need to be the most capable person in the room, toward something your team can actually follow.
-
 Whether you're in Stage 3, at The Wall, or somewhere in between — the question is the same one we started with: where is your leadership actually coming from? And is it getting you the outcomes that matter?
 
 The framework is a mirror. See where you are. See what's driving your leadership. And then lead — consciously, not by default.
