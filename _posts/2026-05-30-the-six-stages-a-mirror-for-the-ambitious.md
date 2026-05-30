@@ -110,6 +110,6 @@ The framework is a mirror. See where you are. See what's driving your leadership
 
 ## References
 
-- VanderPol, L. (2019). *A Shift in Being: The Art and Practices of Deep Transformational Coaching.*
-- Hagberg, J. O. (2003). *Real Power: Stages of Personal Power in Organizations* (3rd ed.). Sheffield Publishing.
-- Lipp, C. (2025). Leading with Personal Power: Gaining Respect Through Courage, Vision, and Trust. *Leader to Leader*. Wiley.
+- VanderPol, L. (2019). [*A Shift in Being: The Art and Practices of Deep Transformational Coaching.*](https://www.amazon.com/Shift-Being-Practices-Transformational-Coaching-ebook/dp/B07QV25CYB)
+- Hagberg, J. O. (2003). [*Real Power: Stages of Personal Power in Organizations*](https://www.amazon.com/Real-Power-Stages-Personal-Organizations/dp/1879215462) (3rd ed.). Sheffield Publishing.
+- Lipp, C. (2025). [Leading with Personal Power: Gaining Respect Through Courage, Vision, and Trust.](https://onlinelibrary.wiley.com/doi/10.1002/ltl.20893) *Leader to Leader*. Wiley.
