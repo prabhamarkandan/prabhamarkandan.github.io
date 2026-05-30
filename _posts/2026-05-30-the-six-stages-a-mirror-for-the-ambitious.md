@@ -4,7 +4,7 @@ title: "Power With Purpose: Why Leadership Source Matters More Than Style"
 date: 2026-05-30 09:00:00 +0000
 categories: [leadership, ambition]
 tags: [power, leadership, personal-growth]
-published: false
+published: true
 permalink: /power-with-purpose/
 excerpt: "A practical map for ambitious leaders who want authority that builds commitment, not just compliance."
 ---
