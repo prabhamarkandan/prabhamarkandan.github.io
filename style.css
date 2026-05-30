@@ -38,6 +38,12 @@ a:visited {
   color: #333;
 }
 
+.post > h1 {
+  font-size: 26px;
+  line-height: 1.2;
+  margin-bottom: 14px;
+}
+
 .post p, .post li, .post div {
   color: #444;
   line-height: 1.7;
