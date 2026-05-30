@@ -2,9 +2,18 @@
 layout: default
 ---
 
+<div class="home-intro">
+  <p class="home-kicker">Thoughts on engineering leadership, delivery excellence, technology strategy, and AI.</p>
+</div>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
+      {% if post.image %}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="post-image-link">
+          <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">
+        </a>
+      {% endif %}
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
@@ -16,7 +25,7 @@ layout: default
         {% endif %}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More...</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more →</a>
     </article>
   {% endfor %}
 </div>
