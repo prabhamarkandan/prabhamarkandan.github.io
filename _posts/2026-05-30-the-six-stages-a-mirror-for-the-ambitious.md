@@ -118,6 +118,3 @@ References
 VanderPol, L. (2019). A Shift in Being: The Art and Practices of Deep Transformational Coaching.
 Hagberg, J. O. (2003). Real Power: Stages of Personal Power in Organizations (3rd ed.). Sheffield Publishing.
 Lipp, C. (2025). Leading with Personal Power: Gaining Respect Through Courage, Vision, and Trust. Leader to Leader. Wiley.
-
-
-How is this
