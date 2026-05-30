@@ -232,6 +232,7 @@ nav a {
 .post-image {
   display: block;
   width: 100%;
+  max-height: 250px;
   border-radius: 14px;
   object-fit: cover;
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
