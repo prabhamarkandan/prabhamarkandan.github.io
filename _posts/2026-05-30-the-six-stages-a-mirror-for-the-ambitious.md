@@ -9,10 +9,6 @@ permalink: /power-with-purpose/
 excerpt: "A practical map for ambitious leaders who want authority that builds commitment, not just compliance."
 ---
 
-*Leadership · Ambition · Conscious Choice*
-
----
-
 Have you ever walked out of a high-stakes meeting and wondered whether the silence after what you said was agreement - or just compliance?
 
 Whether the confident, authoritative voice that drove the decision got the best outcome - or just the fastest one?
