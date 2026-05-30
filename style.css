@@ -131,6 +131,7 @@ img {
 
 .site-name {
   margin: 0;
+  padding-top: 6px;
   color: #111;
   cursor: pointer;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
