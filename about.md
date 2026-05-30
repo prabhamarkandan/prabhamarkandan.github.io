@@ -14,8 +14,9 @@ I write about engineering leadership, delivery excellence, technology strategy, 
 
 I also enjoy reading about history and connecting the dots between past events and today's economy - it gives me perspective on how the world shapes us and the choices we make. I think about AI in a similar way - generative AI, LLMs, and agentic systems are reshaping how we build, decide, and deliver at scale, and understanding that shift responsibly and effectively matters.
 
-> `Success is liking yourself, liking what you do, and liking how you do it.`  
-> *- Maya Angelou*
+> "Success is liking yourself, liking what you do, and liking how you do it."
+>
+> *— Maya Angelou*
 
 If any of this resonates, I'd love to connect.
 
