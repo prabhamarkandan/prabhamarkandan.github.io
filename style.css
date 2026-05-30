@@ -125,13 +125,12 @@ img {
 .site-info {
   display: flex;
   justify-content: space-between;
-  align-items: flex-start;
+  align-items: center;
   width: 100%;
 }
 
 .site-name {
   margin: 0;
-  padding-top: 6px;
   color: #111;
   cursor: pointer;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -147,8 +146,6 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
 }
