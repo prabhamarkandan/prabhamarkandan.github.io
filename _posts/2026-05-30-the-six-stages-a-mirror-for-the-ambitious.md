@@ -7,6 +7,8 @@ tags: [power, leadership, personal-growth]
 published: true
 permalink: /power-with-purpose/
 excerpt: "A practical map for ambitious leaders who want authority that builds commitment, not just compliance."
+image: /images/power-with-purpose.jpg
+image_caption: "Photo by GR Stocks on Unsplash"
 ---
 
 Have you ever walked out of a high-stakes meeting and wondered whether the silence after what you said was agreement - or just compliance?
