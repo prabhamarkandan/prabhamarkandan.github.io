@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm Prabha Markandan. Two decades in engineering - starting as a full-stack developer, now leading platforms and engineering teams across tech, banking, finance, and insurance. I stay close to the technical work - architecture, AI systems, DevSecOps, and platform engineering remain core to how I lead.
+I'm Prabha Markandan. Two decades in engineering - starting as a full-stack developer, now leading platforms and engineering teams across tech, banking, finance, and insurance. I stay close to the technical work - architecture, AI systems, DevSecOps, and platform engineering remain part of my day-to-day.
 
 I've spent my career at the intersection of technical delivery and organisational performance. Building platforms, leading transformation, and working out what actually makes engineering teams perform at their best. The technical problems are rarely the hardest ones.
 
-Alongside leading, I've trained as a coach - ICF-accredited, in progress. I bring coaching principles into how I lead - helping teams move past the patterns that slow them down and build the kind of trust that produces real outcomes.
+Alongside leading, I've trained as a coach - ICF-accredited, in progress. I bring coaching principles into how I work with teams and people - helping teams move past the patterns that slow them down and build the kind of trust that produces real outcomes.
 
 I write about engineering leadership, delivery excellence, technology strategy, and the evolving role of AI in how we build and solve problems.
 
