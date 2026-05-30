@@ -3,6 +3,7 @@ layout: post
 title: "Building Matters: Championing the Freedom to Create, Without Judgement"
 date: 2025-08-13
 categories: [reflection, engineering]
+image: /images/building-matters.jpg
 ---
 
 Many of us became software engineers for one simple reason: **the joy of bringing ideas to life.**
