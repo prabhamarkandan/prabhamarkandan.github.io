@@ -213,12 +213,24 @@ nav a {
 }
 
 .post blockquote {
-  margin: 1.8em .8em;
-  border-left: 2px solid #999;
-  padding: 0.1em 1em;
+  margin: 1.8em 1em;
+  border-left: none;
+  padding: 0.1em 0 0.1em 1em;
   color: #222;
   font-size: 17px;
   font-style: italic;
+  position: relative;
+}
+
+.post blockquote::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2px;
+  height: 60%;
+  background: #999;
 }
 
 .post .comments {
