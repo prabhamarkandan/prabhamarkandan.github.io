@@ -119,14 +119,14 @@ img {
 
 .masthead {
   padding: 0px 0;
-  border-bottom: 1px solid #e7e2db;
+  border-bottom: 1px solid #e5e5e5;
 }
 
 .site-info {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  border-bottom: 1px solid #e7e2db;
+  border-bottom: 1px solid #e5e5e5;
   width: 100%;
 }
 
