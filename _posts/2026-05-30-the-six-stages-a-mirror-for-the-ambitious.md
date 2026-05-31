@@ -11,19 +11,19 @@ image: /images/power-with-purpose.jpg
 image_caption: "Photo by GR Stocks on Unsplash"
 ---
 
-Have you ever made a high-stakes call, walked out of the room, and wondered – if someone in that room thought you were wrong, would they have said so?
+Have you ever made a high-stakes call, walked out of the room, and wondered - if someone in that room thought you were wrong, would they have said so?
 
-Whether the decision that was made was actually the right one – or just the one nobody pushed back on?
+Whether the decision that was made was actually the right one - or just the one nobody pushed back on?
 
-Whether the things that would have made it succeed were left unsaid – not because people didn't see them, but because it didn't feel worth it to say them?
+Whether the things that would have made it succeed were left unsaid - not because people didn't see them, but because it didn't feel worth it to say them?
 
-If you have – you already understand the difference between authority that commands compliance and leadership that inspires and earns commitment.
+If you have - you already understand the difference between authority that commands compliance and leadership that inspires and earns commitment.
 
-Most of what shapes whether people commit or stay silent is outside your direct control. But one factor isn't – what your leadership is actually coming from. And that source shapes everything you can influence.
+Most of what shapes whether people commit or stay silent is outside your direct control. But one factor isn't - what your leadership is actually coming from. And that source shapes everything you can influence.
 
-The difference between leading from a place of proving and leading from a place of purpose isn't visible. But it's felt. Whether you're direct or collaborative, demanding or patient – the style matters less than what's underneath it. And when what's underneath is genuine purpose rather than the need to prove – people feel it, even when they can't name it.
+The difference between leading from a place of proving and leading from a place of purpose isn't visible. But it's felt. Whether you're direct or collaborative, demanding or patient - the style matters less than what's underneath it. And when what's underneath is genuine purpose rather than the need to prove - people feel it, even when they can't name it.
 
-That difference shows up in whether people comply or commit. Whether difficult truths surface early – while something can still be done – or stay hidden until the cost is already paid. Whether teams bring their best thinking to difficult problems, or simply what they think leaders want to hear. In complex organisations, compliance is not enough. In transformation and delivery environments, I've seen this difference repeatedly: authority can drive fast decisions, but commitment is what sustains execution when things get hard.
+That difference shows up in whether people comply or commit. Whether difficult truths surface early - while something can still be done - or stay hidden until the cost is already paid. Whether teams bring their best thinking to difficult problems, or simply what they think leaders want to hear. In complex organisations, compliance is not enough. In transformation and delivery environments, I've seen this difference repeatedly: authority can drive fast decisions, but commitment is what sustains execution when things get hard.
 
 So the question underneath all of it - the one most leaders never stop to ask - is this: **Where are you leading from?**
 
