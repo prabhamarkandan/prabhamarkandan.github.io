@@ -20,7 +20,7 @@ Whether the things that would have made it succeed were left unsaid - not becaus
 If you have - you already understand the difference between authority that commands **compliance** and leadership that **inspires and earns commitment**.
 
 Most of what shapes whether people commit or stay silent is outside your direct control. 
-But one factor isn't - **where are you leading from?** And that source shapes everything you can influence.
+But one factor isn't - **the source of your leadership** And that source shapes everything you can influence.
 
 The difference between leading from a place of proving and leading from a place of purpose isn't visible. But it's felt. 
 Whether you're direct or collaborative, demanding or patient - the style matters less than what's underneath it. 
