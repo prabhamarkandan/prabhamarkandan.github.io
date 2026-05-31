@@ -5,7 +5,7 @@ date: 2025-08-16
 categories: engineering leadership communication teams
 description: "How Radical Candor, Emotional Intelligence, and problem-focused conversations help build trust, drive alignment, and turn conflict into growth."
 image: /images/leadership-edge.jpg
-image_caption: 'Photo by <a href="https://unsplash.com/@mariogogh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mario Gogh</a> on <a href="https://unsplash.com/photos/group-of-people-having-a-meeting-VBLHICVh-lI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+image_caption: "Photo by Mario Gogh on Unsplash"
 ---
 
 In any team, group, or collaborative environment, few things matter more than the ability to build trust and alignment. Yet many people struggle with giving feedback or addressing conflict. Too often, they avoid difficult conversations for fear of hurting relationships, or they rush into them without care, leaving damage behind.
