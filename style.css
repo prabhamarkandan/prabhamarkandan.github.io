@@ -245,8 +245,11 @@ nav a {
   color: #111;
 }
 
-.posts .post h1 a {
+.posts .post h1 a,
+.posts .post h1 a:visited,
+.posts .post h1 a:hover {
   color: #111;
+  text-decoration: none;
 }
 
 .posts .post .entry {
