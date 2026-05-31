@@ -25,7 +25,7 @@ The difference between leading from a place of proving and leading from a place 
 
 That difference shows up in whether people comply or commit. Whether difficult truths surface early – while something can still be done – or stay hidden until the cost is already paid. Whether teams bring their best thinking to difficult problems, or simply what they think leaders want to hear. In complex organisations, compliance is not enough. In transformation and delivery environments, I've seen this difference repeatedly: authority can drive fast decisions, but commitment is what sustains execution when things get hard.
 
-So the question underneath all of it - the one most leaders never stop to ask - is this: **where is your leadership actually coming from?**
+So the question underneath all of it - the one most leaders never stop to ask - is this: **Where are you leading from?**
 
 That question is really a question about personal power. Not the formal kind - the title, the authority, the org chart. But the internal kind. The source that determines whether your leadership lands or just occupies space.
 
@@ -99,7 +99,7 @@ This framework doesn't ask you to stop being a warrior. It doesn't say ambition 
 The drive, the discipline, the willingness to do hard things - all of that is still present in Stage 5. It's just pointed at something different. Not at proving. At building something that genuinely matters. And paradoxically, that's when leadership becomes most powerful. Not *power over*. *Power with*.
 
 The warrior who proves and the warrior who leads are not as far apart as they look. The journey between them doesn't require you to become someone else. It requires you to lead from a deeper place - past the performing, past the need to be the most capable person in the room, toward something your team can actually follow.
-Whether you're in Stage 3, at The Wall, or somewhere in between - the question is the same one we started with: where is your leadership actually coming from? And is it getting you the outcomes that matter?
+Whether you're in Stage 3, at The Wall, or somewhere in between - the question is the same one we started with: Where are you leading from? And is it getting you the outcomes that matter?
 
 The framework is a mirror. See where you are. See what's driving your leadership. And then lead - consciously, not by default.
 
