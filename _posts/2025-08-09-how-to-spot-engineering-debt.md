@@ -3,6 +3,8 @@ layout: post
 title: "The Hidden Threat: How to Spot the Engineering Debt Slowing Your AI Feature Rollouts"
 date: 2025-08-10
 categories: engineering ai leadership
+image: /images/engineering-debt.jpg
+image_caption: "Photo by Jayson Hinrichsen on Unsplash"
 ---
 
 
