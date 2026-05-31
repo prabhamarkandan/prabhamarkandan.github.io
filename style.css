@@ -198,6 +198,18 @@ nav a {
   letter-spacing: 0.5px;
 }
 
+nav a:visited,
+nav a:hover {
+  color: #111;
+}
+
+.site-name a,
+.site-name a:visited,
+.site-name a:hover {
+  color: #111;
+  text-decoration: none;
+}
+
 /* Home intro */
 .home-intro {
   margin: 0 0 40px;
