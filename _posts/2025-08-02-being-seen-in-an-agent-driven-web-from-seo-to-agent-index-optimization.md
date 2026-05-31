@@ -4,6 +4,7 @@ title: "Being Seen in an Agent-Driven Web: From SEO to Agent Index Optimization"
 date: 2025-08-02
 categories: engineering leadership ai
 image: /images/agent-web.png
+image_caption: "Image generated with Gemini"
 ---
 
 I used to be a food blogger many years ago and spent a fair bit of time learning the craft of SEO. In those days, discoverability meant optimizing for search engines - getting your content in front of human readers through clever keywords, backlinks, and structured content.
