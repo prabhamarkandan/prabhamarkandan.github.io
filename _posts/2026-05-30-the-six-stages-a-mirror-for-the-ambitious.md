@@ -11,7 +11,7 @@ image: /images/power-with-purpose.jpg
 image_caption: "Photo by GR Stocks on Unsplash"
 ---
 
-Have you ever made a high-stakes call, walked out of the room, and wondered - "if someone in that room thought you were wrong, would they have said so?"
+Have you ever made a high-stakes call, walked out of the room, and wondered - "if someone in that room thought I was wrong, would they have said so?"
 
 Whether the things that would have made it succeed were left unsaid - not because people didn't see them, but because it didn't feel worth it to say them?
 
@@ -102,7 +102,7 @@ The drive, the discipline, the willingness to do hard things - all of that is st
 The warrior who proves and the warrior who leads are not as far apart as they look. The journey between them doesn't require you to become someone else. It requires you to lead from a deeper place - past the performing, past the need to be the most capable person in the room, toward something your team can actually follow.
 Whether you're in Stage 3, at The Wall, or somewhere in between - the question is the same one we started with: Where are you operating from? And is it getting you the outcomes that matter?
 
-The framework is a mirror. See where you are. See what's driving your leadership. And then lead - consciously, not by default.
+The framework is a mirror. See where you are. See what's driving you. And then lead - consciously, not by default.
 
 ---
 
