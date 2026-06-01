@@ -11,9 +11,7 @@ image: /images/power-with-purpose.jpg
 image_caption: "Photo by GR Stocks on Unsplash"
 ---
 
-Have you ever made a high-stakes call, walked out of the room, and wondered - if someone in that room thought you were wrong, would they have said so?
-
-Whether the decision that was made was actually the right one - or just the one nobody pushed back on?
+Have you ever made a high-stakes call, walked out of the room, and wondered - "if someone in that room thought you were wrong, would they have said so?"
 
 Whether the things that would have made it succeed were left unsaid - not because people didn't see them, but because it didn't feel worth it to say them?
 
@@ -28,11 +26,11 @@ And when what's underneath is genuine purpose rather than the need to prove - pe
 
 That difference shows up in whether people **comply or commit**. Whether difficult truths surface early - while something can still be done - or stay hidden until the cost is already paid. Whether teams bring their best thinking to difficult problems, or simply what they think leaders want to hear. In complex organisations, compliance is not enough. In transformation and delivery environments, I've seen this difference repeatedly: authority can drive **fast decisions**, but commitment is what **sustains execution** when things get hard.
 
-So the question underneath all of it - the one most leaders never stop to ask - is this: **Where are you leading from?**
+So the question underneath all of it - the one most of us never stop to ask - is this: **Where are you operating from?**
 
 That question is really a question about personal power. Not the formal kind - the title, the authority, the org chart. But the internal kind. The source that determines whether your leadership lands or just occupies space.
 
-Janet Hagberg spent decades researching exactly this. Her model - the **Six Stages of Personal Power** - gave me language for something I'd been observing in organisations and leadership for years, but had never been able to fully articulate. She defines personal power in a way that immediately reframes the conversation:
+Janet Hagberg spent decades researching exactly this. Her model - the **Six Stages of Personal Power** - gave me language for something I'd been observing in people and organisations for years, but had never been able to fully articulate. She defines personal power in a way that immediately reframes the conversation:
 
 > *"Personal power is the extent to which one is able to link the outer capacity for action with the inner capacity for reflection."*
 
@@ -102,7 +100,7 @@ This framework doesn't ask you to stop being a warrior. It doesn't say ambition 
 The drive, the discipline, the willingness to do hard things - all of that is still present in Stage 5. It's just pointed at something different. Not at proving. At building something that genuinely matters. And paradoxically, that's when leadership becomes most powerful. Not *power over*. *Power with*.
 
 The warrior who proves and the warrior who leads are not as far apart as they look. The journey between them doesn't require you to become someone else. It requires you to lead from a deeper place - past the performing, past the need to be the most capable person in the room, toward something your team can actually follow.
-Whether you're in Stage 3, at The Wall, or somewhere in between - the question is the same one we started with: Where are you leading from? And is it getting you the outcomes that matter?
+Whether you're in Stage 3, at The Wall, or somewhere in between - the question is the same one we started with: Where are you operating from? And is it getting you the outcomes that matter?
 
 The framework is a mirror. See where you are. See what's driving your leadership. And then lead - consciously, not by default.
 
