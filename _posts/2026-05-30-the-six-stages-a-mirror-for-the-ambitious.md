@@ -18,7 +18,7 @@ Whether the things that would have made it succeed were left unsaid - not becaus
 If you have - you already understand the difference between authority that commands **compliance** and leadership that **inspires and earns commitment**.
 
 Most of what shapes whether people commit or stay silent is outside your direct control. 
-But one factor isn't - **the source of your leadership** And that source shapes everything you can influence.
+But one factor isn't - **the source of your leadership**. And that source shapes everything you can influence.
 
 The difference between leading from a place of proving and leading from a place of purpose isn't visible. But it's felt. 
 Whether you're direct or collaborative, demanding or patient - the style matters less than what's underneath it. 
@@ -28,13 +28,15 @@ That difference shows up in whether people **comply or commit**. Whether difficu
 
 So the question underneath all of it - the one most of us never stop to ask - is this: **Where are you operating from?**
 
+**What is your source of personal power?**
+
 That question is really a question about personal power. Not the formal kind - the title, the authority, the org chart. But the internal kind. The source that determines whether your leadership lands or just occupies space.
 
 Janet Hagberg spent decades researching exactly this. Her model - the **Six Stages of Personal Power** - gave me language for something I'd been observing in people and organisations for years, but had never been able to fully articulate. She defines personal power in a way that immediately reframes the conversation:
 
 > *"Personal power is the extent to which one is able to link the outer capacity for action with the inner capacity for reflection."*
 
-I came across her work in Leon VanderPol's *A Shift in Being*. And what the model maps - six stages through which our relationship with personal power develops - isn't a hierarchy of better or worse. It's a mirror. One that shows you where you are, what's driving you, and whether you're leading on purpose or on autopilot.
+I came across her work in Leon VanderPol's *A Shift in Being*. And what the model maps - six stages through which our relationship with personal power develops - isn't a hierarchy of better or worse. It's a mirror. One that shows you where you are, what's driving you, and whether you're living and operating on purpose or on autopilot.
 
 Research is catching up to what many experienced leaders already know. Chris Lipp, writing in *Leader to Leader* in 2025, argues that the dichotomy between servant leadership and dominance is fabricated - that personal power is an internal state that radiates outward, underlying courage, authority, and trust regardless of leadership style. The source, not the style, is what people respond to.
 
